@@ -1,6 +1,6 @@
 # CR Client
 
-Windows 桌面版 Cloudreve V4 客户端（PySide6 + QWebEngine + Aria2），提供接近网盘原生体验的文件浏览与下载管理。
+Windows 桌面版 Cloudreve V4 客户端（PySide6 + QWebEngine + Aria2），提供接近网盘原生体验的文件浏览与下载管理。  
 非狗屎官方OneDrive方案，参考百度网盘ui实现。
 
 ## 项目特性
